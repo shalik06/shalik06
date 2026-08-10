@@ -91,6 +91,12 @@ Every day I learn, code, and move one step closer to becoming a Java Software En
 
 ---
 
+## 📅 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shalik06&theme=tokyo-night)
+
+---
+
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/shalik06
