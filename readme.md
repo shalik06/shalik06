@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./assets/profile.png" alt="Md Shalik" width="200" style="border-radius: 50%;" />
+</div>
+
+<br>
+
 # Hi there 👋, I'm Md Shalik
 
 ## 🚀 Future Java Software Engineer
