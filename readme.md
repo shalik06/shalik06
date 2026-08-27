@@ -89,21 +89,58 @@ Real-world Java projects built while learning software development.
 
 ---
 
-## 🔥 Daily Motto
+# ⚡ Developer Journey
 
-"Write code. Solve problems. Stay consistent."
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shalik06&theme=tokyonight"
+    alt="GitHub Profile Summary"
+  />
+</p>
 
-Every day I learn, code, and move one step closer to becoming a Java Software Engineer.
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shalik06&theme=tokyonight"
+    height="170"
+    alt="Repositories Per Language"
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shalik06&theme=tokyonight"
+    height="170"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shalik06&theme=tokyonight"
+    height="170"
+    alt="GitHub Statistics"
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shalik06&theme=tokyonight&utcOffset=5.5"
+    height="170"
+    alt="Productive Time"
+  />
+</p>
+
+<p align="center">
+  <b>☕ Code &nbsp; • &nbsp; 🧠 Solve &nbsp; • &nbsp; 📚 Learn &nbsp; • &nbsp; 🚀 Build &nbsp; • &nbsp; 🔁 Repeat</b>
+</p>
 
 ---
 
-## 📅 Contribution Graph
+## 🔥 Daily Motto
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shalik06&theme=tokyo-night)
+> **"Write code. Solve problems. Stay consistent."**
+
+Every day I learn, code, and move one step closer to becoming a Java Software Engineer.
 
 ---
 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/shalik06
-- LinkedIn: (www.linkedin.com/in/md-shalik-5b1780332)
+- LinkedIn: www.linkedin.com/in/md-shalik-5b1780332
