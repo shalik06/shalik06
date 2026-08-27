@@ -1,13 +1,15 @@
 <div align="center">
-  <img src="Shalik.img" alt="Md Shalik" width="200" style="border-radius: 50%;" />
 
-  <h1>Hi there 👋, I'm Md Shalik</h1>
+<img src="Shalik.img" alt="Md Shalik" width="200" style="border-radius: 50%;" />
 
-  <h2>🚀 Future Java Software Engineer</h2>
+# 👋 Hi, I'm Md Shalik
 
-  <p>
-    <i>Learning Java • Solving Problems • Building Projects • Becoming a Software Engineer</i>
-  </p>
+### 🚀 Future Java Software Engineer
+
+<p>
+☕ Java &nbsp; • &nbsp; 🧠 DSA &nbsp; • &nbsp; 🏗 Projects &nbsp; • &nbsp; 🌱 Spring Boot
+</p>
+
 </div>
 
 ---
@@ -22,143 +24,183 @@ My goal is to build strong problem-solving skills, develop real-world projects, 
 
 ---
 
-## 🎯 Current Goals
-
-* ☕ Master Core Java
-* 🧠 Practice DSA Daily
-* 🏗 Build Java Projects
-* 🌱 Learn Spring Boot
-* 💾 Improve SQL & Database Skills
-* 🚀 Build REST APIs
-* 🌍 Contribute to Open Source
-* 💼 Prepare for Software Engineering Interviews
-* 🏆 Become a Professional Java Developer
-
----
-
-## 💻 Tech Stack
-
-### ☕ Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
-
-### 🌱 Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Servlets-Learning-orange?style=for-the-badge" />
-</p>
-
-### 💾 Database
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### 🧠 Concepts
-
-* Object-Oriented Programming
-* Data Structures & Algorithms
-* Problem Solving
-* Database Management Systems
-* Operating Systems
-* Backend Development
-
-### 🛠 Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-</p>
-
----
-
-# 🎮 2026 Developer Mission
+# 🎮 DEVELOPER RPG
 
 <div align="center">
 
-### 🧑‍💻 PLAYER: MD SHALIK
-
-**CLASS:** `JAVA SOFTWARE ENGINEER`
-**LEVEL:** `BUILDING...`
-**MAIN QUEST:** `BECOME A PROFESSIONAL DEVELOPER`
+```text
+╔══════════════════════════════════════════════════════════╗
+║                    ⚔️ DEVELOPER RPG ⚔️                  ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║   👤 PLAYER       : MD SHALIK                            ║
+║   💼 CLASS        : JAVA SOFTWARE ENGINEER               ║
+║   ⭐ LEVEL        : DEVELOPER                             ║
+║   ⚡ XP           : ███████████████░░░░░  75%             ║
+║                                                          ║
+║   🏆 MAIN QUEST   : BECOME A PROFESSIONAL DEVELOPER      ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 🗺️ Mission Map
+## 🗺️ Developer World
 
 ```text
-                       🎯 FINAL DESTINATION
-                              │
-                              ▼
-                    ┌────────────────────┐
-                    │ SOFTWARE ENGINEER  │
-                    └─────────┬──────────┘
-                              │
-               ┌──────────────┼──────────────┐
-               ▼              ▼              ▼
-            ☕ JAVA          🧠 DSA        🌱 SPRING
-               │              │              │
-               └──────────────┼──────────────┘
-                              ▼
-                        🏗 PROJECTS
-                              │
-                              ▼
-                        🚀 BACKEND
-                              │
-                              ▼
-                        💼 INTERNSHIP
-                              │
-                              ▼
-                         🏆 CAREER
+                         🏰 SOFTWARE ENGINEER
+                                  │
+                                  ▼
+                         ┌─────────────────┐
+                         │   FINAL BOSS    │
+                         │   INTERVIEWS    │
+                         └────────┬────────┘
+                                  │
+                    ┌─────────────┼─────────────┐
+                    ▼             ▼             ▼
+                 ☕ JAVA        🧠 DSA       💾 SQL
+                    │             │             │
+                    └─────────────┼─────────────┘
+                                  ▼
+                            🌱 SPRING BOOT
+                                  │
+                                  ▼
+                            🚀 REST APIs
+                                  │
+                                  ▼
+                            🏗 PROJECTS
+                                  │
+                                  ▼
+                             💼 INTERNSHIP
+                                  │
+                                  ▼
+                            🏆 FINAL QUEST
 ```
 
 ---
 
-## 🎯 Main Quests
+# 🎯 QUEST LOG
 
-| Status | Quest          | Objective                                |
-| :----: | :------------- | :--------------------------------------- |
-|   🟢   | ☕ Java         | Master Core Java                         |
-|   🟢   | 🧠 DSA         | Solve 300+ problems                      |
-|   🟡   | 💾 SQL         | Strengthen database skills               |
-|   🟡   | 🌱 Spring Boot | Build REST APIs                          |
-|   🟡   | 🏗 Projects    | Build real-world applications            |
-|   🔵   | 🌍 Open Source | Make meaningful contributions            |
-|   🔵   | 💼 Internship  | Secure a Software Development Internship |
+| Status | Quest                     |    Reward   |
+| :----: | :------------------------ | :---------: |
+|    ✅   | Master Core Java          |  ☕ +500 XP  |
+|   🔄   | Complete DSA              | 🧠 +1000 XP |
+|   🔄   | Solve 300+ Problems       |  ⚡ +1500 XP |
+|   🔄   | Learn Spring Boot         | 🌱 +1000 XP |
+|   🔄   | Build REST APIs           | 🚀 +1200 XP |
+|   🔄   | Build Real Projects       | 🏗 +1500 XP |
+|   🔄   | Contribute to Open Source | 🌍 +2000 XP |
+|   🔄   | Get Software Internship   | 💼 +3000 XP |
 
 ---
 
-## ⚔️ Daily XP System
+# ⚔️ SKILL TREE
 
 ```text
-┌───────────────────────────────────────┐
-│           DAILY DEVELOPER XP          │
-├───────────────────────────────────────┤
-│                                       │
-│  ☕ CODE        +100 XP               │
-│  🧠 DSA         +100 XP               │
-│  📚 LEARN        +75 XP               │
-│  🏗 BUILD       +150 XP               │
-│  🔄 REVISE       +50 XP               │
-│                                       │
-├───────────────────────────────────────┤
-│                                       │
-│       LEARN → CODE → SOLVE → BUILD    │
-│                                       │
-└───────────────────────────────────────┘
+                         👨‍💻 DEVELOPER
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+             ▼                ▼                ▼
+          ☕ JAVA            🧠 DSA           💾 SQL
+             │                │                │
+        ┌────┼────┐       ┌───┼───┐        ┌──┴──┐
+        ▼    ▼    ▼       ▼   ▼   ▼        ▼     ▼
+       OOP  JVM Collections Arrays Algo   MySQL  DBMS
+        │                │
+        └────────────────┼────────────────┐
+                         ▼                ▼
+                    🌱 SPRING BOOT    🚀 REST API
+                         │                │
+                         └───────┬────────┘
+                                 ▼
+                         🏗 REAL PROJECTS
 ```
 
 ---
 
-## 📂 Current Repositories
+# 🧠 DAILY XP
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                    ⚡ DAILY XP SYSTEM                    ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  ☕ Write Java Code              +100 XP                  ║
+║  🧠 Solve DSA Problem           +150 XP                  ║
+║  📚 Learn New Concept           +100 XP                  ║
+║  🏗 Build Project               +250 XP                  ║
+║  🔄 Revise                      +75 XP                   ║
+║  🚀 Push Code to GitHub         +100 XP                  ║
+║                                                          ║
+║  🎯 DAILY TARGET:              500+ XP                   ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+```text
+🏅 ─────────────────────────────────────────────
+
+☕ JAVA INITIATE
+   Learn the fundamentals of Java
+
+🧠 DSA WARRIOR
+   Solve challenging DSA problems
+
+🔥 100 DAYS CODER
+   Complete the Java learning challenge
+
+🏗 PROJECT BUILDER
+   Build real-world applications
+
+🌱 SPRING APPRENTICE
+   Learn Spring Boot & Backend Development
+
+🚀 API ARCHITECT
+   Build production-ready REST APIs
+
+🌍 OPEN SOURCE HERO
+   Make meaningful open-source contributions
+
+💼 CAREER UNLOCKED
+   Become a Software Development Professional
+
+🏅 ─────────────────────────────────────────────
+```
+
+---
+
+# 🎮 CURRENT PLAYER STATUS
+
+```text
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│  👤 MD SHALIK                                      │
+│                                                    │
+│  CLASS        Java Software Engineer               │
+│  WEAPON       ☕ Java                              │
+│  SECONDARY    🧠 DSA                               │
+│  ARMOR        💻 Problem Solving                   │
+│  SPECIAL      🏗 Project Building                  │
+│                                                    │
+│  CURRENT QUEST                                     │
+│  └── Become a Professional Java Developer          │
+│                                                    │
+│  NEXT BOSS                                         │
+│  └── Software Engineering Interview                │
+│                                                    │
+└────────────────────────────────────────────────────┘
+```
+
+---
+
+# 📂 CURRENT REPOSITORIES
 
 ### ☕ Java DSA Practice
 
@@ -166,7 +208,7 @@ Daily Java coding challenges and problem-solving practice.
 
 ### 📚 Java Lab Experiments
 
-Java programs covering fundamentals, OOP, inheritance, polymorphism, exception handling, collections, and multithreading.
+Programs covering Java fundamentals, OOP, inheritance, polymorphism, exception handling, collections, and multithreading.
 
 ### 🚀 Java Projects
 
@@ -174,76 +216,92 @@ Real-world Java projects built while learning software development.
 
 ### 📅 100 Days of Java
 
-A daily Java learning and problem-solving challenge focused on building consistency and strengthening programming fundamentals.
+A daily Java learning and problem-solving challenge focused on consistency and strong programming fundamentals.
 
 ---
 
-## 📈 2026 Targets
+# 🛠️ TECH STACK
+
+### Languages
+
+* ☕ Java
+
+### Backend
+
+* 🌱 Spring Boot
+* 🔌 JDBC
+* 🌐 Servlets
+
+### Database
+
+* 💾 MySQL
+
+### Concepts
+
+* OOP
+* Data Structures & Algorithms
+* Problem Solving
+* DBMS
+* Operating Systems
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* IntelliJ IDEA
+
+---
+
+# 📈 2026 MISSION
 
 ```text
-☕ Core Java              ████████████████████
-🧠 DSA                   ███████████████░░░░░
-💾 SQL                   ███████████░░░░░░░░
-🌱 Spring Boot           ████████░░░░░░░░░░░
-🏗 Projects              █████████░░░░░░░░░░
-🚀 REST APIs             ██████░░░░░░░░░░░░░
-🌍 Open Source           ████░░░░░░░░░░░░░░░░
-💼 Internship            ███░░░░░░░░░░░░░░░░░
+              2026 DEVELOPER MISSION
+
+☕ Master Java              ████████████████████
+🧠 Complete DSA            ███████████████░░░░░
+💾 Master SQL              ███████████░░░░░░░░
+🌱 Learn Spring Boot       ████████░░░░░░░░░░░
+🚀 Build REST APIs         ██████░░░░░░░░░░░░░
+🏗 Build Projects          █████████░░░░░░░░░░
+🌍 Open Source             ████░░░░░░░░░░░░░░░
+💼 Internship              ███░░░░░░░░░░░░░░░░
 ```
 
 ---
 
-## 🔥 Daily Motto
+# 🔥 DAILY MOTTO
 
-> **"Write code. Solve problems. Stay consistent."**
+<div align="center">
 
-Every day I learn, code, and move one step closer to becoming a **Java Software Engineer**.
+### `LEARN → CODE → SOLVE → BUILD → REPEAT`
 
----
+**"Write code. Solve problems. Stay consistent."**
 
-## 🚀 Developer Mindset
-
-```text
-                    THINK
-                      │
-                      ▼
-                   LEARN
-                      │
-                      ▼
-                    CODE
-                      │
-                      ▼
-                   SOLVE
-                      │
-                      ▼
-                   BUILD
-                      │
-                      ▼
-                  IMPROVE
-                      │
-                      └──────────► REPEAT
-```
+</div>
 
 ---
 
-## 📫 Connect With Me
+# 📫 CONNECT WITH ME
 
-<p>
-  <a href="https://github.com/shalik06">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<div align="center">
 
-  <a href="https://www.linkedin.com/in/md-shalik-5b1780332/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/shalik06">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/md-shalik-5b1780332/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ☕ Java • 🧠 DSA • 🏗 Projects • 🚀 Backend
+### ☕ JAVA • 🧠 DSA • 🏗 BUILD • 🚀 DEPLOY
 
-**Keep Learning. Keep Building. Keep Growing.**
+**⚔️ The journey has started. The final boss is waiting.**
 
 </div>
