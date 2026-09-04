@@ -7,15 +7,20 @@
 ### 🚀 Future Java Software Engineer
 
 <p>
-☕ Java &nbsp; • &nbsp; 🧠 DSA &nbsp; • &nbsp; 🏗 Projects &nbsp; • &nbsp; 🌱 Spring Boot
+☕ Java &nbsp; • &nbsp; 🧠 DSA &nbsp; • &nbsp; ⚔️ LeetCode &nbsp; • &nbsp; 🏗 Projects &nbsp; • &nbsp; 🌱 Spring Boot
 </p>
 
 <p>
 <a href="https://github.com/shalik06">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/md-shalik-5b1780332/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/Shalik06/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 </p>
 
@@ -31,8 +36,8 @@ Currently, I am focused on mastering:
 
 * ☕ Java
 * 🧠 Data Structures & Algorithms
-* 🧩 Problem Solving
-* 🏗 Object-Oriented Programming
+* ⚔️ LeetCode Problem Solving
+* 🧩 Object-Oriented Programming
 * 💾 SQL & Database Management
 * 🌱 Spring Boot
 * 🚀 Backend Development
@@ -82,6 +87,9 @@ My goal is to build strong problem-solving skills, develop real-world projects, 
                     │             │             │
                     └─────────────┼─────────────┘
                                   ▼
+                            ⚔️ LEETCODE
+                                  │
+                                  ▼
                             🌱 SPRING BOOT
                                   │
                                   ▼
@@ -114,15 +122,15 @@ My goal is to build strong problem-solving skills, develop real-world projects, 
 
 ---
 
-# 🧠 LEETCODE BATTLE ARENA
+# ⚔️ LEETCODE BATTLE ARENA
 
 <div align="center">
 
-### ⚔️ DAILY PROBLEM-SOLVING ACTIVITY
+### 🧠 DAILY PROBLEM-SOLVING ACTIVITY
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/u/Shalik06/">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Progress" />
+<img src="https://leetcard.jacoblin.cool/Shalik06?theme=dark&font=Baloo&ext=heatmap" alt="Shalik06 LeetCode Progress" />
 
 </a>
 
@@ -130,75 +138,147 @@ My goal is to build strong problem-solving skills, develop real-world projects, 
 
 ---
 
-## 📊 LEETCODE ACTIVITY
+# 📊 LEETCODE PROGRESS
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap" alt="LeetCode Activity Heatmap" />
+<a href="https://leetcode.com/u/Shalik06/">
+
+<img src="https://leetcard.jacoblin.cool/Shalik06?theme=dark&ext=heatmap" alt="LeetCode Activity Heatmap" />
+
+</a>
 
 </div>
 
+<br>
+
+<div align="center">
+
+### ⚔️ DSA BATTLE STATUS
+
 ```text
 ╔══════════════════════════════════════════════════════════╗
-║                  🧠 LEETCODE QUEST                       ║
+║                  🧠 LEETCODE PROGRESS                    ║
 ╠══════════════════════════════════════════════════════════╣
 ║                                                          ║
-║   ⚔️ PLATFORM       : LEETCODE                           ║
-║   🧠 ROLE           : DSA WARRIOR                        ║
-║   🔥 STATUS         : ACTIVE                             ║
-║   🎯 TARGET         : 300+ PROBLEMS                      ║
+║   👤 PLAYER       : MD SHALIK                            ║
+║   🧠 USERNAME     : Shalik06                             ║
+║   ☕ LANGUAGE     : JAVA                                 ║
+║   ⚔️ ROLE         : DSA WARRIOR                          ║
 ║                                                          ║
-║   MISSION:                                              ║
+║   🧩 PROBLEMS SOLVED : 5                                 ║
+║   🎯 TARGET          : 300+                              ║
 ║                                                          ║
-║   Solve → Understand → Optimize → Repeat                ║
+║   PROGRESS:                                             ║
+║   ██░░░░░░░░░░░░░░░░  1.7%                              ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-### 🏆 LeetCode Milestones
-
-|   Milestone  | Status |    Reward   |
-| :----------: | :----: | :---------: |
-|  10 Problems |   🔄   |  🟢 +250 XP |
-|  25 Problems |   🔄   |  ⚔️ +500 XP |
-|  50 Problems |   🔄   |  🏆 +750 XP |
-| 100 Problems |   🔄   | 🔥 +1000 XP |
-| 200 Problems |   🔄   | 💎 +1500 XP |
-| 300 Problems |   🎯   | 👑 +2500 XP |
+</div>
 
 ---
 
-# 🧩 DSA BATTLE MAP
+# 🏆 LEETCODE MILESTONES
+
+|    Milestone    | Status |  Reward  |
+| :-------------: | :----: | :------: |
+|  🟢 10 Problems |   🔄   |  +250 XP |
+|  ⚔️ 25 Problems |   🔒   |  +500 XP |
+|  🏆 50 Problems |   🔒   |  +750 XP |
+| 🔥 100 Problems |   🔒   | +1000 XP |
+| 💎 200 Problems |   🔒   | +1500 XP |
+| 👑 300 Problems |   🎯   | +2500 XP |
+
+---
+
+# 🧩 LEETCODE SKILL MAP
 
 ```text
-                         🧠 DSA WARRIOR
-                               │
-              ┌────────────────┼────────────────┐
-              │                │                │
-              ▼                ▼                ▼
-           ARRAYS           STRINGS          HASHING
-              │                │                │
-              ▼                ▼                ▼
-        TWO POINTERS       SLIDING WINDOW    HASHMAP
-              │                │                │
-              └────────────────┼────────────────┘
-                               ▼
-                         BINARY SEARCH
-                               │
-                               ▼
-                        LINKED LIST
-                               │
-                               ▼
-                         STACK & QUEUE
-                               │
-                               ▼
-                             TREES
-                               │
-                               ▼
-                            GRAPHS
-                               │
-                               ▼
-                      DYNAMIC PROGRAMMING
+                    ⚔️ DSA WARRIOR
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+          ▼                ▼                ▼
+       🟢 ARRAYS       🔵 MATH        🟣 SORTING
+          │                │                │
+          └────────────────┼────────────────┘
+                           │
+                           ▼
+                    🔍 BINARY SEARCH
+                           │
+                           ▼
+                    🔗 TWO POINTERS
+                           │
+                           ▼
+                     #️⃣ HASH TABLE
+                           │
+                           ▼
+                      🌳 ADVANCED DSA
+```
+
+---
+
+# 📈 LEETCODE TOPICS
+
+<div align="center">
+
+| Topic                  | Current Focus |
+| :--------------------- | :-----------: |
+| 🟢 Arrays              |      ⭐⭐⭐      |
+| 🔵 Math                |      ⭐⭐⭐      |
+| 🟣 Binary Search       |       ⭐⭐      |
+| 🟠 Sorting             |       ⭐⭐      |
+| 🟡 Hash Table          |       ⭐       |
+| 🔴 Two Pointers        |       ⭐       |
+| 🌳 Trees               |       🔒      |
+| 🕸️ Graphs             |       🔒      |
+| 💡 Dynamic Programming |       🔒      |
+
+</div>
+
+---
+
+# ⚔️ DSA BATTLE PLAN
+
+```text
+                    🧠 DSA JOURNEY
+                         │
+                         ▼
+                     ARRAYS
+                         │
+                         ▼
+                      STRINGS
+                         │
+                         ▼
+                      HASHING
+                         │
+                         ▼
+                  TWO POINTERS
+                         │
+                         ▼
+                 SLIDING WINDOW
+                         │
+                         ▼
+                 BINARY SEARCH
+                         │
+                         ▼
+                  LINKED LIST
+                         │
+                         ▼
+                  STACK / QUEUE
+                         │
+                         ▼
+                     TREES
+                         │
+                         ▼
+                    GRAPHS
+                         │
+                         ▼
+             DYNAMIC PROGRAMMING
+                         │
+                         ▼
+                  👑 INTERVIEW
 ```
 
 ---
@@ -216,6 +296,9 @@ My goal is to build strong problem-solving skills, develop real-world projects, 
         ┌────┼────┐       ┌───┼───┐        ┌──┴──┐
         ▼    ▼    ▼       ▼   ▼   ▼        ▼     ▼
        OOP  JVM Collections Arrays Algo   MySQL  DBMS
+        │                │
+        │                ▼
+        │             ⚔️ LEETCODE
         │                │
         └────────────────┼────────────────┐
                          ▼                ▼
@@ -237,7 +320,7 @@ My goal is to build strong problem-solving skills, develop real-world projects, 
 ║                                                          ║
 ║  ☕ Write Java Code              +100 XP                  ║
 ║  🧠 Solve DSA Problem           +150 XP                  ║
-║  💻 Solve LeetCode Problem      +200 XP                  ║
+║  ⚔️ Solve LeetCode Problem      +200 XP                  ║
 ║  📚 Learn New Concept           +100 XP                  ║
 ║  🏗 Build Project               +250 XP                  ║
 ║  🔄 Revise                      +75 XP                   ║
@@ -262,7 +345,7 @@ My goal is to build strong problem-solving skills, develop real-world projects, 
    Solve challenging DSA problems
 
 ⚔️ LEETCODE HUNTER
-   Build a consistent LeetCode solving habit
+   Solve LeetCode problems consistently
 
 🔥 100 DAYS CODER
    Complete the Java learning challenge
@@ -297,14 +380,18 @@ My goal is to build strong problem-solving skills, develop real-world projects, 
 │  CLASS        Java Software Engineer               │
 │  WEAPON       ☕ Java                              │
 │  SECONDARY    🧠 DSA                               │
+│  BATTLEFIELD  ⚔️ LeetCode                          │
 │  ARMOR        💻 Problem Solving                   │
 │  SPECIAL      🏗 Project Building                  │
 │                                                    │
+│  LEETCODE                                         │
+│  └── Shalik06                                      │
+│                                                    │
+│  PROBLEMS SOLVED                                  │
+│  └── 5 / 300+                                     │
+│                                                    │
 │  CURRENT QUEST                                     │
 │  └── Become a Professional Java Developer          │
-│                                                    │
-│  DSA QUEST                                         │
-│  └── Solve 300+ LeetCode Problems                 │
 │                                                    │
 │  NEXT BOSS                                         │
 │  └── Software Engineering Interview                │
@@ -332,7 +419,7 @@ Real-world Java projects built while learning software development.
 
 A daily Java learning and problem-solving challenge focused on consistency and strong programming fundamentals.
 
-### 🧠 LeetCode Practice
+### ⚔️ LeetCode Practice
 
 Java solutions to LeetCode problems with a focus on understanding DSA patterns and improving problem-solving skills.
 
@@ -400,11 +487,13 @@ Computer Networks
 
 ---
 
-# 📊 GITHUB ACTIVITY
+# 📊 GITHUB STATS
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=shalik06&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalik06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
@@ -436,7 +525,7 @@ Computer Networks
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/u/Shalik06/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
