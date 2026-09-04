@@ -10,15 +10,33 @@
 ☕ Java &nbsp; • &nbsp; 🧠 DSA &nbsp; • &nbsp; 🏗 Projects &nbsp; • &nbsp; 🌱 Spring Boot
 </p>
 
+<p>
+<a href="https://github.com/shalik06">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/md-shalik-5b1780332/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I am a passionate Computer Science student on a journey to become a **Java Software Engineer**.
 
-Currently, I am focused on mastering **Java, Data Structures & Algorithms, Object-Oriented Programming, SQL, and Backend Development**.
+Currently, I am focused on mastering:
+
+* ☕ Java
+* 🧠 Data Structures & Algorithms
+* 🧩 Problem Solving
+* 🏗 Object-Oriented Programming
+* 💾 SQL & Database Management
+* 🌱 Spring Boot
+* 🚀 Backend Development
+* 🔧 Git & GitHub
 
 My goal is to build strong problem-solving skills, develop real-world projects, and prepare for opportunities at top technology companies.
 
@@ -47,7 +65,7 @@ My goal is to build strong problem-solving skills, develop real-world projects, 
 
 ---
 
-## 🗺️ Developer World
+# 🗺️ DEVELOPER WORLD
 
 ```text
                          🏰 SOFTWARE ENGINEER
@@ -83,16 +101,105 @@ My goal is to build strong problem-solving skills, develop real-world projects, 
 
 # 🎯 QUEST LOG
 
-| Status | Quest                     |    Reward   |
-| :----: | :------------------------ | :---------: |
-|    ✅   | Master Core Java          |  ☕ +500 XP  |
-|   🔄   | Complete DSA              | 🧠 +1000 XP |
-|   🔄   | Solve 300+ Problems       |  ⚡ +1500 XP |
-|   🔄   | Learn Spring Boot         | 🌱 +1000 XP |
-|   🔄   | Build REST APIs           | 🚀 +1200 XP |
-|   🔄   | Build Real Projects       | 🏗 +1500 XP |
-|   🔄   | Contribute to Open Source | 🌍 +2000 XP |
-|   🔄   | Get Software Internship   | 💼 +3000 XP |
+| Status | Quest                        |    Reward   |
+| :----: | :--------------------------- | :---------: |
+|    ✅   | Master Core Java             |  ☕ +500 XP  |
+|   🔄   | Complete DSA                 | 🧠 +1000 XP |
+|   🔄   | Solve 300+ LeetCode Problems |  ⚡ +1500 XP |
+|   🔄   | Learn Spring Boot            | 🌱 +1000 XP |
+|   🔄   | Build REST APIs              | 🚀 +1200 XP |
+|   🔄   | Build Real Projects          | 🏗 +1500 XP |
+|   🔄   | Contribute to Open Source    | 🌍 +2000 XP |
+|   🔄   | Get Software Internship      | 💼 +3000 XP |
+
+---
+
+# 🧠 LEETCODE BATTLE ARENA
+
+<div align="center">
+
+### ⚔️ DAILY PROBLEM-SOLVING ACTIVITY
+
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Progress" />
+
+</a>
+
+</div>
+
+---
+
+## 📊 LEETCODE ACTIVITY
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap" alt="LeetCode Activity Heatmap" />
+
+</div>
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                  🧠 LEETCODE QUEST                       ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║   ⚔️ PLATFORM       : LEETCODE                           ║
+║   🧠 ROLE           : DSA WARRIOR                        ║
+║   🔥 STATUS         : ACTIVE                             ║
+║   🎯 TARGET         : 300+ PROBLEMS                      ║
+║                                                          ║
+║   MISSION:                                              ║
+║                                                          ║
+║   Solve → Understand → Optimize → Repeat                ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+### 🏆 LeetCode Milestones
+
+|   Milestone  | Status |    Reward   |
+| :----------: | :----: | :---------: |
+|  10 Problems |   🔄   |  🟢 +250 XP |
+|  25 Problems |   🔄   |  ⚔️ +500 XP |
+|  50 Problems |   🔄   |  🏆 +750 XP |
+| 100 Problems |   🔄   | 🔥 +1000 XP |
+| 200 Problems |   🔄   | 💎 +1500 XP |
+| 300 Problems |   🎯   | 👑 +2500 XP |
+
+---
+
+# 🧩 DSA BATTLE MAP
+
+```text
+                         🧠 DSA WARRIOR
+                               │
+              ┌────────────────┼────────────────┐
+              │                │                │
+              ▼                ▼                ▼
+           ARRAYS           STRINGS          HASHING
+              │                │                │
+              ▼                ▼                ▼
+        TWO POINTERS       SLIDING WINDOW    HASHMAP
+              │                │                │
+              └────────────────┼────────────────┘
+                               ▼
+                         BINARY SEARCH
+                               │
+                               ▼
+                        LINKED LIST
+                               │
+                               ▼
+                         STACK & QUEUE
+                               │
+                               ▼
+                             TREES
+                               │
+                               ▼
+                            GRAPHS
+                               │
+                               ▼
+                      DYNAMIC PROGRAMMING
+```
 
 ---
 
@@ -130,6 +237,7 @@ My goal is to build strong problem-solving skills, develop real-world projects, 
 ║                                                          ║
 ║  ☕ Write Java Code              +100 XP                  ║
 ║  🧠 Solve DSA Problem           +150 XP                  ║
+║  💻 Solve LeetCode Problem      +200 XP                  ║
 ║  📚 Learn New Concept           +100 XP                  ║
 ║  🏗 Build Project               +250 XP                  ║
 ║  🔄 Revise                      +75 XP                   ║
@@ -152,6 +260,9 @@ My goal is to build strong problem-solving skills, develop real-world projects, 
 
 🧠 DSA WARRIOR
    Solve challenging DSA problems
+
+⚔️ LEETCODE HUNTER
+   Build a consistent LeetCode solving habit
 
 🔥 100 DAYS CODER
    Complete the Java learning challenge
@@ -192,6 +303,9 @@ My goal is to build strong problem-solving skills, develop real-world projects, 
 │  CURRENT QUEST                                     │
 │  └── Become a Professional Java Developer          │
 │                                                    │
+│  DSA QUEST                                         │
+│  └── Solve 300+ LeetCode Problems                 │
+│                                                    │
 │  NEXT BOSS                                         │
 │  └── Software Engineering Interview                │
 │                                                    │
@@ -218,38 +332,53 @@ Real-world Java projects built while learning software development.
 
 A daily Java learning and problem-solving challenge focused on consistency and strong programming fundamentals.
 
+### 🧠 LeetCode Practice
+
+Java solutions to LeetCode problems with a focus on understanding DSA patterns and improving problem-solving skills.
+
 ---
 
 # 🛠️ TECH STACK
 
 ### Languages
 
-* ☕ Java
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ### Backend
 
-* 🌱 Spring Boot
-* 🔌 JDBC
-* 🌐 Servlets
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
 
 ### Database
 
-* 💾 MySQL
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ### Concepts
 
-* OOP
-* Data Structures & Algorithms
-* Problem Solving
-* DBMS
-* Operating Systems
+```text
+OOP
+Data Structures & Algorithms
+Problem Solving
+DBMS
+Operating Systems
+Computer Networks
+```
 
 ### Tools
 
-* Git
-* GitHub
-* VS Code
-* IntelliJ IDEA
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+</p>
 
 ---
 
@@ -260,6 +389,7 @@ A daily Java learning and problem-solving challenge focused on consistency and s
 
 ☕ Master Java              ████████████████████
 🧠 Complete DSA            ███████████████░░░░░
+⚔️ LeetCode 300+           █████████░░░░░░░░░░
 💾 Master SQL              ███████████░░░░░░░░
 🌱 Learn Spring Boot       ████████░░░░░░░░░░░
 🚀 Build REST APIs         ██████░░░░░░░░░░░░░
@@ -267,6 +397,18 @@ A daily Java learning and problem-solving challenge focused on consistency and s
 🌍 Open Source             ████░░░░░░░░░░░░░░░
 💼 Internship              ███░░░░░░░░░░░░░░░░
 ```
+
+---
+
+# 📊 GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shalik06&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shalik06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
@@ -294,13 +436,17 @@ A daily Java learning and problem-solving challenge focused on consistency and s
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-### ☕ JAVA • 🧠 DSA • 🏗 BUILD • 🚀 DEPLOY
+### ☕ JAVA • 🧠 DSA • ⚔️ LEETCODE • 🏗 BUILD • 🚀 DEPLOY
 
 **⚔️ The journey has started. The final boss is waiting.**
 
