@@ -58,8 +58,8 @@ My goal is to build strong problem-solving skills, develop real-world projects, 
 ║                                                          ║
 ║   👤 PLAYER       : MD SHALIK                            ║
 ║   💼 CLASS        : JAVA SOFTWARE ENGINEER               ║
-║   ⭐ LEVEL        : DEVELOPER                             ║
-║   ⚡ XP           : ███████████████░░░░░  75%             ║
+║   ⭐ LEVEL        : DEVELOPER                            ║
+║   ⚡ XP           : ███████████████░░░░░  75%            ║
 ║                                                          ║
 ║   🏆 MAIN QUEST   : BECOME A PROFESSIONAL DEVELOPER      ║
 ║                                                          ║
@@ -134,43 +134,39 @@ My goal is to build strong problem-solving skills, develop real-world projects, 
 
 </a>
 
-</div>
+<br>
 
----
-
-# 📊 LEETCODE PROGRESS
-
-<div align="center">
+### 🔥 Keep Solving. Keep Improving.
 
 <a href="https://leetcode.com/u/Shalik06/">
-
-<img src="https://leetcard.jacoblin.cool/Shalik06?theme=dark&ext=heatmap" alt="LeetCode Activity Heatmap" />
-
+<img src="https://img.shields.io/badge/View_My_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 </div>
 
-<br>
+---
+
+# 🧠 LEETCODE BATTLE STATUS
 
 <div align="center">
-
-### ⚔️ DSA BATTLE STATUS
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
 ║                  🧠 LEETCODE PROGRESS                    ║
 ╠══════════════════════════════════════════════════════════╣
 ║                                                          ║
-║   👤 PLAYER       : MD SHALIK                            ║
-║   🧠 USERNAME     : Shalik06                             ║
-║   ☕ LANGUAGE     : JAVA                                 ║
-║   ⚔️ ROLE         : DSA WARRIOR                          ║
+║   👤 PLAYER          : MD SHALIK                         ║
+║   🧠 USERNAME        : Shalik06                          ║
+║   ☕ LANGUAGE        : JAVA                              ║
+║   ⚔️ ROLE            : DSA WARRIOR                       ║
 ║                                                          ║
-║   🧩 PROBLEMS SOLVED : 5                                 ║
+║   🧩 PROBLEMS SOLVED : 5                                ║
 ║   🎯 TARGET          : 300+                              ║
 ║                                                          ║
 ║   PROGRESS:                                             ║
 ║   ██░░░░░░░░░░░░░░░░  1.7%                              ║
+║                                                          ║
+║   ⚔️ STATUS           : TRAINING                         ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
