@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Shalik.img" alt="Md Shalik" width="160" />
+<img src="Shalikkk.png" alt="Md Shalik" width="160" />
 
 # 👋 Hi, I'm Md Shalik
 
