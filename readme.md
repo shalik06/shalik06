@@ -1,235 +1,250 @@
-<div align="center">
+<!-- ================= PROFILE PHOTO ================= -->
 
-<img src="Shalikkk.png" alt="Md Shalik" width="160" />
+<p align="center">
+  <img src="./Shalik.jpg" width="180" height="180" alt="Md Shalik"/>
+</p>
 
-# 👋 Hi, I'm Md Shalik
+<h1 align="center">Hi 👋, I'm Md Shalik</h1>
 
-### ☕ Future Java Software Engineer
+<h3 align="center">☕ Future Java Software Engineer</h3>
 
-**Java • DSA • LeetCode • Spring Boot • Backend Development**
+<p align="center">
+  Java • DSA • OOP • SQL • Spring Boot • Backend Development
+</p>
 
-<br>
-
-<a href="https://github.com/shalik06">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/md-shalik-5b1780332/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/Shalik06/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/shalik06">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-shalik-5b1780332/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Shalik06/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student focused on becoming a **Java Software Engineer**.
+I'm a **BCA Computer Science student** focused on becoming a **Java Software Engineer**.
 
-Currently learning and practicing:
+I'm currently building my skills in:
 
-* ☕ Java
+* ☕ Java & Core Java
 * 🧠 Data Structures & Algorithms
-* ⚔️ LeetCode
-* 💾 SQL & Databases
+* 🧩 Object-Oriented Programming
+* 🗄️ SQL & MySQL
+* 🔌 JDBC
 * 🌱 Spring Boot
-* 🚀 Backend Development
+* ⚙️ Backend Development
+* 💻 Problem Solving
 * 🔧 Git & GitHub
 
-> **Learn → Code → Solve → Build → Repeat.**
-
----
-
-## ⚔️ LeetCode
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Shalik06/">
-
-<img src="https://leetcard.jacoblin.cool/Shalik06?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Progress" />
-
-</a>
-
-<br>
-
-<a href="https://leetcode.com/u/Shalik06/">
-<img src="https://img.shields.io/badge/View_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-</div>
-
-### 🧠 Current LeetCode Skills
-
-| Topic         | Level |
-| :------------ | :---: |
-| Arrays        |  ⭐⭐⭐  |
-| Math          |  ⭐⭐⭐  |
-| Binary Search |   ⭐⭐  |
-| Sorting       |   ⭐⭐  |
-| Hash Table    |   ⭐   |
-| Two Pointers  |   ⭐   |
-
----
-
-## 📅 100 Days of Java
-
-I'm currently working through a **100 Days of Java** challenge to improve my programming fundamentals and problem-solving skills.
-
-```text
-☕ Java Fundamentals
-        ↓
-🧠 Problem Solving
-        ↓
-⚔️ DSA
-        ↓
-🚀 Projects
-        ↓
-💼 Software Engineer
-```
-
-📌 **Goal:** Become stronger at Java by coding consistently every day.
-
----
-
-## 🧠 DSA Roadmap
-
-```text
-Arrays
-  ↓
-Strings
-  ↓
-Hashing
-  ↓
-Two Pointers
-  ↓
-Sliding Window
-  ↓
-Binary Search
-  ↓
-Linked List
-  ↓
-Stack & Queue
-  ↓
-Trees
-  ↓
-Graphs
-  ↓
-Dynamic Programming
-```
+I enjoy learning programming concepts, solving coding problems, and improving my problem-solving skills through consistent practice.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=java" height="60" alt="Java"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=spring" height="60" alt="Spring Boot"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=git" height="60" alt="Git"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=idea" height="60" alt="IntelliJ IDEA"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code"/>
+
 </p>
 
-### Backend
+### 📚 Core Skills
 
-<p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
-</p>
+<p align="center">
 
-### Database
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-007396?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-5382A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend%20Development-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge"/>
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
 ---
 
-## 📂 Projects & Practice
+## 🧠 LeetCode Journey
 
-| Project                     | Description                         |
-| :-------------------------- | :---------------------------------- |
-| ☕ **100 Days of Java**      | Daily Java coding practice          |
-| 🧠 **Java DSA Practice**    | DSA and problem-solving questions   |
-| ⚔️ **LeetCode Practice**    | Java solutions to LeetCode problems |
-| 📚 **Java Lab Experiments** | Java fundamentals and OOP           |
-| 🚀 **Java Projects**        | Real-world application development  |
+I regularly practice **Data Structures & Algorithms** on LeetCode using Java.
 
----
+<p align="center">
+  <a href="https://leetcode.com/u/Shalik06/">
+    <img src="https://leetcard.jacoblin.cool/Shalik06?theme=dark&font=Baloo&ext=heatmap" alt="Md Shalik LeetCode Stats"/>
+  </a>
+</p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shalik06&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shalik06&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <a href="https://leetcode.com/u/Shalik06/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+  </a>
+</p>
 
 ---
 
-## 🎯 2026 Goals
+## 🚀 100 Days of Java
+
+Currently following my **100 Days of Java with Alpha 8.0** learning journey.
+
+### 📅 Topics
+
+* Day 01 — Variables & Data Types
+* Day 02 — Conditional Statements
+* Pattern Problems
+* Recursion
+* Bit Manipulation
+* Arrays
+* Problem Solving
+* LeetCode Practice
+
+<p align="center">
+  <a href="https://github.com/shalik06/100-Days-of-Java-with-Alpha-8.0">
+    <img src="https://img.shields.io/badge/100%20Days%20of%20Java-Alpha%208.0-007396?style=for-the-badge&logo=java&logoColor=white" alt="100 Days of Java"/>
+  </a>
+</p>
+
+---
+
+## 📂 Featured Repositories
+
+### ☕ 100 Days of Java with Alpha 8.0
+
+My structured Java learning journey covering programming fundamentals, problem solving, patterns, recursion, and DSA.
+
+<p align="left">
+  <a href="https://github.com/shalik06/100-Days-of-Java-with-Alpha-8.0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shalik06&repo=100-Days-of-Java-with-Alpha-8.0&theme=github_dark&hide_border=true" alt="100 Days of Java Repository"/>
+  </a>
+</p>
+
+### 🧩 Java Problem Solving
+
+Topic-wise Java programming problems and coding practice.
+
+<p align="left">
+  <a href="https://github.com/shalik06/java-problem-solving">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shalik06&repo=java-problem-solving&theme=github_dark&hide_border=true" alt="Java Problem Solving Repository"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shalik06&theme=github-dark&hide_border=true" alt="Md Shalik GitHub Contribution Graph"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shalik06&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalik06&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top Languages"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shalik06&theme=github-dark&hide_border=true" alt="Md Shalik GitHub Streak"/>
+</p>
+
+---
+
+## 🎯 Current Learning Path
+
+<p align="center">
 
 ```text
-☑ Improve Java
-☑ Practice DSA
-☑ Solve LeetCode Problems
-☐ Master SQL
-☐ Learn Spring Boot
-☐ Build REST APIs
-☐ Build Real-World Projects
-☐ Contribute to Open Source
-☐ Get a Software Engineering Internship
+Java
+  ↓
+Core Java
+  ↓
+OOP
+  ↓
+DSA
+  ↓
+Problem Solving
+  ↓
+SQL & MySQL
+  ↓
+JDBC
+  ↓
+Spring Boot
+  ↓
+Backend Development
 ```
 
----
-
-## 🔥 Currently Grinding
-
-**☕ Java + 🧠 DSA + ⚔️ LeetCode**
-
-> Small progress every day becomes big progress over time.
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🌱 Goals
 
-<div align="center">
+* ☕ Strengthen Core Java
+* 🧠 Improve DSA & Problem Solving
+* 🔥 Solve more LeetCode problems
+* 🗄️ Master SQL & MySQL
+* 🌱 Learn Spring Boot deeply
+* ⚙️ Build real-world Java projects
+* 💻 Become a strong Java Backend Developer
+* 🚀 Prepare for software engineering opportunities
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/shalik06">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/md-shalik-5b1780332/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://leetcode.com/u/Shalik06/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<h3 align="center">☕ Code • Learn • Practice • Build • Repeat</h3>
 
-### ☕ Code • 🧠 Solve • 🚀 Build
-
-**Thanks for visiting my profile!**
-
-</div>
+<h4 align="center">🚀 Future Java Software Engineer</h4>
