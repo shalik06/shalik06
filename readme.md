@@ -1,7 +1,7 @@
 <!-- ================= PROFILE PHOTO ================= -->
 
 <p align="center">
-  <img src="./Shalik.jpg" width="180" height="180" alt="Md Shalik"/>
+  <img src="./Shalikkk.png" width="180" height="180" alt="Md Shalik"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Shalik</h1>
