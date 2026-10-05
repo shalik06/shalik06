@@ -1,5 +1,7 @@
 <!-- ===================================================== -->
-<!--                    PROFILE PHOTO                     -->
+
+<!--                    PROFILE HEADER                     -->
+
 <!-- ===================================================== -->
 
 <p align="center">
@@ -8,23 +10,21 @@
 
 <h1 align="center">Hi 👋, I'm Md Shalik</h1>
 
-<h3 align="center">☕ Future Java Software Engineer</h3>
+<h3 align="center">☕ Java Backend Developer in Progress</h3>
 
 <p align="center">
-  Java • DSA • OOP • SQL • Spring Boot • Backend Development
+  Building strong foundations in Java, DSA, SQL & Backend Development
 </p>
 
 <p align="center">
   <a href="https://github.com/shalik06">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
   <a href="https://www.linkedin.com/in/md-shalik-5b1780332/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://leetcode.com/u/Shalik06/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
@@ -32,119 +32,174 @@
 
 # 👨‍💻 About Me
 
-I'm a **BCA Computer Science student** focused on becoming a **Java Software Engineer**.
+I'm a **BCA Computer Science student** focused on becoming a **Java Backend Developer**.
 
-I'm currently building my skills in:
+I enjoy understanding how software works behind the scenes and building a strong foundation in programming, problem solving, databases, and backend technologies.
 
-- ☕ Java & Core Java
-- 🧠 Data Structures & Algorithms
-- 🧩 Object-Oriented Programming
-- 🗄️ SQL & MySQL
-- 🔌 JDBC
-- 🌱 Spring Boot
-- ⚙️ Backend Development
-- 💻 Problem Solving
-- 🔧 Git & GitHub
+### 🚀 Currently focusing on
 
-I enjoy learning programming concepts, solving coding problems, and improving my problem-solving skills through consistent practice.
+* ☕ Core Java
+* 🧩 Object-Oriented Programming
+* 🧠 Data Structures & Algorithms
+* 🗄️ SQL & MySQL
+* 🔌 JDBC
+* 🌱 Spring Boot
+* 🌐 REST APIs
+* ⚙️ Backend Development
+* 🔧 Git & GitHub
+* 🖥️ Operating Systems
+
+> **My goal:** Become a strong Java Backend Developer by building solid fundamentals, solving problems consistently, and developing real-world backend applications.
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Backend Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java" height="60" alt="Java"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=spring" height="60" alt="Spring Boot"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=git" height="60" alt="Git"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=idea" height="60" alt="IntelliJ IDEA"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code"/>
+<img src="https://skillicons.dev/icons?i=java" height="55" alt="Java"/>
+<img src="https://skillicons.dev/icons?i=spring" height="55" alt="Spring Boot"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="55" alt="MySQL"/>
+<img src="https://skillicons.dev/icons?i=git" height="55" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub"/>
+<img src="https://skillicons.dev/icons?i=idea" height="55" alt="IntelliJ IDEA"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code"/>
 
 </p>
 
----
-
-# 📚 Core Skills
+### 💻 Languages & Technologies
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA-007396?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/JDBC-5382A1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Backend%20Development-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🧠 LeetCode Journey
+# 🧠 Core Computer Science
 
-I regularly practice **Data Structures & Algorithms** on LeetCode using Java.
+<p align="center">
+
+<img src="https://img.shields.io/badge/DSA-007396?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-FF6F00?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🏗️ Backend Development Roadmap
+
+```text
+                         JAVA
+                           │
+                           ▼
+                    Core Java Concepts
+                           │
+                           ▼
+                          OOP
+                           │
+                           ▼
+                         DSA
+                           │
+                           ▼
+                    Problem Solving
+                           │
+                           ▼
+                     SQL & MySQL
+                           │
+                           ▼
+                         JDBC
+                           │
+                           ▼
+                    Web Fundamentals
+                           │
+                           ▼
+                       REST APIs
+                           │
+                           ▼
+                     Spring Boot
+                           │
+                           ▼
+                  Spring Data JPA
+                           │
+                           ▼
+                  Hibernate / ORM
+                           │
+                           ▼
+                 Backend Development
+                           │
+                           ▼
+                 Real-World Projects
+```
+
+---
+
+# 📚 100 Days of Java — Alpha 8.0
+
+Currently following a structured **100 Days of Java** learning journey.
+
+### 📅 Topics I'm Practicing
+
+* Variables & Data Types
+* Conditional Statements
+* Loops
+* Functions & Methods
+* Arrays
+* Patterns
+* OOP
+* Recursion
+* Bit Manipulation
+* Divide & Conquer
+* Sorting Algorithms
+* Searching Algorithms
+* Data Structures
+* Problem Solving
+* LeetCode
+
+<p align="center">
+  <a href="https://github.com/shalik06/100-Days-of-Java-with-Alpha-8.0">
+    <img src="https://img.shields.io/badge/100%20Days%20of%20Java-Alpha%208.0-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 🧩 Problem Solving
+
+I regularly practice programming problems to improve:
+
+* 🧠 Logical thinking
+* ⚡ Algorithmic thinking
+* 📊 Time & Space Complexity
+* ☕ Java problem solving
+* 🔍 Debugging
+* 🧩 DSA fundamentals
+
+### LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/u/Shalik06/">
     <img
       src="https://leetcard.jacoblin.cool/Shalik06?theme=dark&ext=heatmap"
       width="500"
-      alt="Md Shalik LeetCode Stats and Contribution Heatmap"
+      alt="Md Shalik LeetCode Stats"
     />
   </a>
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/u/Shalik06/">
-    <img
-      src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-      alt="LeetCode Profile"
-    />
-  </a>
-</p>
-
----
-
-# 🚀 100 Days of Java with Alpha 8.0
-
-Currently following a **100 Days of Java** learning journey with Alpha 8.0.
-
-### 📅 Topics
-
-- Day 01 — Variables & Data Types
-- Day 02 — Conditional Statements
-- Pattern Problems
-- Recursion
-- Bit Manipulation
-- Arrays
-- Problem Solving
-- LeetCode Practice
-
-<p align="center">
-  <a href="https://github.com/shalik06/100-Days-of-Java-with-Alpha-8.0">
-    <img
-      src="https://img.shields.io/badge/100%20Days%20of%20Java-Alpha%208.0-007396?style=for-the-badge&logo=java&logoColor=white"
-      alt="100 Days of Java"
-    />
+    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
@@ -154,40 +209,34 @@ Currently following a **100 Days of Java** learning journey with Alpha 8.0.
 
 ### ☕ 100 Days of Java with Alpha 8.0
 
-My structured Java learning journey covering programming fundamentals, problem solving, patterns, recursion, and DSA.
+Structured Java learning journey containing programming fundamentals, DSA, recursion, patterns, sorting, and problem-solving practice.
 
 <p align="center">
   <a href="https://github.com/shalik06/100-Days-of-Java-with-Alpha-8.0">
-    <img
-      src="https://img.shields.io/badge/VIEW%20REPOSITORY-100%20DAYS%20OF%20JAVA-007396?style=for-the-badge&logo=github&logoColor=white"
-      alt="100 Days of Java Repository"
-    />
+    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-100%20DAYS%20OF%20JAVA-007396?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-### 🧩 Java Problem Solving
+### 🧠 Java Problem Solving
 
-Topic-wise Java programming problems and coding practice.
+Topic-wise Java programming and problem-solving practice.
 
 <p align="center">
   <a href="https://github.com/shalik06/java-problem-solving">
-    <img
-      src="https://img.shields.io/badge/VIEW%20REPOSITORY-JAVA%20PROBLEM%20SOLVING-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="Java Problem Solving Repository"
-    />
+    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-JAVA%20PROBLEM%20SOLVING-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-# 📊 GitHub Contribution Graph
+# 📊 GitHub Activity
 
 <p align="center">
   <a href="https://github.com/shalik06">
     <img
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shalik06&theme=github_dark"
       width="100%"
-      alt="Md Shalik GitHub Contribution Graph"
+      alt="GitHub Contribution Graph"
     />
   </a>
 </p>
@@ -197,68 +246,106 @@ Topic-wise Java programming problems and coding practice.
 # 📈 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shalik06&theme=github_dark"
-    width="48%"
-    alt="Md Shalik GitHub Statistics"
-  />
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shalik06&theme=github_dark"
-    width="48%"
-    alt="Md Shalik Repository Languages"
-  />
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shalik06&theme=github_dark"
+width="48%"
+alt="GitHub Statistics"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shalik06&theme=github_dark"
+width="48%"
+alt="Repository Languages"
+/>
+
 </p>
 
 ---
 
-# 🔥 GitHub Coding Activity
+# 🔥 My Developer Journey
+
+```text
+2026
+ │
+ ├── ☕ Java Fundamentals
+ ├── 🧩 OOP
+ ├── 🧠 DSA
+ ├── 🔍 Problem Solving
+ ├── 🗄️ SQL / MySQL
+ └── 🔧 Git & GitHub
+        │
+        ▼
+   Backend Foundations
+        │
+        ▼
+2027
+ │
+ ├── 🌱 Spring Boot
+ ├── 🌐 REST APIs
+ ├── 🗃️ JPA / Hibernate
+ ├── 🔐 Backend Security
+ ├── 🏗️ Backend Projects
+ └── 🚀 Internship
+        │
+        ▼
+   Java Backend Developer
+```
+
+---
+
+# 🎯 Current Goals
+
+* [ ] Master Core Java
+* [ ] Strengthen DSA
+* [ ] Improve Problem Solving
+* [ ] Become strong in SQL & DBMS
+* [ ] Learn JDBC
+* [ ] Learn Spring Boot
+* [ ] Build REST APIs
+* [ ] Learn JPA & Hibernate
+* [ ] Build backend projects
+* [ ] Get my first Software Development Internship
+* [ ] Become a strong Java Backend Developer
+
+---
+
+# 💡 What I Believe
+
+> **Consistency beats motivation.**
+
+Every problem I solve, every bug I fix, and every concept I learn is another step toward becoming a better developer.
+
+```text
+Learn → Practice → Build → Debug → Improve → Repeat 🔁
+```
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
 
-  <a href="https://github.com/shalik06">
-    <img
-      src="https://img.shields.io/badge/GitHub-View%20Contributions-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub Contributions"
-    />
-  </a>
+<a href="https://github.com/shalik06">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/shalik06?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/Repositories-View%20Projects-007396?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub Repositories"
-    />
-  </a>
+<a href="https://www.linkedin.com/in/md-shalik-5b1780332/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Shalik06/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 </p>
 
 ---
 
-# 🎯 Current Learning Path
+<p align="center">
+  <b>☕ Code. Learn. Build. Repeat.</b>
+</p>
 
-```text
-                    ☕ JAVA
-                      │
-                      ▼
-                 Core Java
-                      │
-                      ▼
-                    OOP
-                      │
-                      ▼
-                    DSA
-                      │
-                      ▼
-             Problem Solving
-                      │
-                      ▼
-                SQL & MySQL
-                      │
-                      ▼
-                    JDBC
-                      │
-                      ▼
-               Spring Boot
-                      │
-                      ▼
-           Backend Development
+<p align="center">
+  ⭐ If you find my repositories useful, consider giving them a star!
+</p>
